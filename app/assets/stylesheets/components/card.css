@@ -1,0 +1,22 @@
+
+.cards {
+  display: flex;
+}
+
+.cards .card {
+  flex: 1 1 auto;
+}
+
+.card {
+  padding: 10px;
+  border-radius: 1px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  margin: 10px;
+}
+
+.card-box {
+  position: relative;
+  height: 200px;
+  background-size: cover;
+  position: relative;
+}
